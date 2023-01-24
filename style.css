@@ -1,0 +1,13 @@
+html{
+	min-height: 100vh;
+}
+
+body{
+	margin: 0;
+}
+
+footer{
+	text-align: center;
+	height: 15vh;
+	background-color: #8FB9AA;
+}
